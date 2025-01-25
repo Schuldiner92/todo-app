@@ -13,4 +13,4 @@ Trabajado en el curso JavaScript Moderno en DevTalles
 
 ## Desplegado
 
-### [`Link(https://todos-app-jhon.netlify.app/)
+### [Link](https://todos-app-jhon.netlify.app/)
